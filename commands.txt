@@ -1,0 +1,2 @@
+remove all the .csv related to results:
+rm -rf .-name yeast_test_2020*
